@@ -5,10 +5,10 @@
  */
 
 // Used pin (on the arduino)
-int LED = 8;
+int LED = 12;
 
 void setup() {
-  // Set 8 pin to current Output
+  // Set 12 pin to current Output
   pinMode(LED, OUTPUT);
 }
 

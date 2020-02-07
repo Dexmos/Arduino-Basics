@@ -4,17 +4,17 @@
  * Dexmos
  */
 
-const int Resistor = A0;
+const int Photosensor = A0;
 
 int value;
 
 void setup() {
-  pinMode(Resistor, INPUT);
+  pinMode(Photosensor, INPUT);
   Serial.begin(9600);
 }
 
 void loop() {
-  value = analogRead(Resistor);
+  value = analogRead(Photosensor);
 
   Serial.println(value);
   delay(100);

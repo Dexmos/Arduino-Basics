@@ -5,12 +5,12 @@
  */
 
 // Used pin for TiltBall (on the arduino)
-int TiltBall = 8;
+int TiltBall = 12;
 
 int TiltBallReader;
 
 void setup() {
-  pinMode(TiltBall, INPUT);       // Set 8 pin to current Input
+  pinMode(TiltBall, INPUT);       // Set 12 pin to current Input
   digitalWrite(TiltBall, HIGH);   // Set up the TiltBall (if you don't the TiltBall won't return HIGH)
   Serial.begin(9600);             // Set port for the console
 }
