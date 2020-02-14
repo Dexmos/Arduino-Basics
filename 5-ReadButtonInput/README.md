@@ -5,7 +5,7 @@ The goal of this exercise is to read on the Serial Monitor (in the Arduino IDE) 
 # Scheme
 
 <p align="center">
-  <img width="480" height="270" src="https://github.com/Dexmos/Arduino-Workshop-I/blob/master/5-ReadButtonInput/Scheme/Scheme.jpg">
+  <img width="600" height="300" src="https://github.com/Dexmos/Arduino-Workshop-I/blob/master/5-ReadButtonInput/Scheme/Scheme.jpg">
 </p>
 
 # Stuff requirements
