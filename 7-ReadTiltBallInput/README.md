@@ -1,6 +1,6 @@
 # Desciption 
 
-The goal of this exercise is to read the Tilt Ball Switch's outpout on the Serial Monitor (in the Arduino IDE) when we reverse or not the Breadboard.
+The goal of this exercise is to read the Tilt Ball Switch's output on the Serial Monitor (in the Arduino IDE) when we reverse or not the Breadboard.
 
 # Scheme
 
