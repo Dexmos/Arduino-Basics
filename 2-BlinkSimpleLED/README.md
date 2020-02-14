@@ -1,6 +1,6 @@
 # Desciption 
 
-The goal of this exercise is to turn on a simple LED.
+The goal of this exercise is to turn on a simple LED and make it blink.
 
 # Scheme
 
