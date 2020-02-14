@@ -14,4 +14,5 @@ You will need :
 * 1 LED
 * 1 Resistor
 * 1 Aduino
+* 1 Breadboard
 * Few Jumpers
