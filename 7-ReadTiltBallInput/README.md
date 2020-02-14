@@ -11,7 +11,6 @@ The goal of this exercise is to read the Tilt Ball Switch's output on the Serial
 # Stuff requirements
 
 You will need :
-* 1 LED
 * 1 Resistor
 * 1 Tilt Ball Switch
 * 1 Breadboard
