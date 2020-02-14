@@ -16,7 +16,7 @@ void setup() {
 }
 
 void loop() {
-  ButtonReader = digitalRead(Button);   // Read input from Button (HIGH or LOW)
+  ButtonReader = digitalRead(Button);   // Read output from Button (HIGH or LOW)
 
   if (ButtonReader == HIGH)
     Serial.println("Button HIGH");

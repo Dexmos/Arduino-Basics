@@ -16,7 +16,7 @@ void setup() {
 }
 
 void loop() {
-  TiltBallReader = digitalRead(TiltBall);   // Read input from TiltBall (HIGH or LOW)
+  TiltBallReader = digitalRead(TiltBall);   // Read Output from TiltBall (HIGH or LOW)
 
   if (TiltBallReader == HIGH)               // TiltBall flipped
     Serial.println("TiltBall HIGH");
