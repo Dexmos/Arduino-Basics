@@ -16,8 +16,8 @@ Install [Arduino IDE](https://www.arduino.cc/en/main/software).
 
 You will need :
 * 1 Arduino (UNO R3 in this case)
-* 1 Breadboard
-* 1 Bigger breadboard
+* 1 Breadboard (size : half)
+* 1 Breadboard (size : full)
 * 1 Button (Small)
 * 1 Tilt Ball Switch
 * 1 RGB LED
