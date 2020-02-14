@@ -5,7 +5,7 @@ The goal of this exercise is to turn off a simple LED when we reverse the Breadb
 # Scheme
 
 <p align="center">
-  <img width="480" height="270" src="https://github.com/Dexmos/Arduino-Workshop-I/blob/master/6-TurnOffLEDWithTiltBall/Scheme/Scheme.jpg">
+  <img width="600" height="300" src="https://github.com/Dexmos/Arduino-Workshop-I/blob/master/6-TurnOffLEDWithTiltBall/Scheme/Scheme.jpg">
 </p>
 
 # Stuff requirements
