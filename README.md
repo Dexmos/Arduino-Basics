@@ -25,4 +25,4 @@ You will need :
 * Few Simple LED
 * Few Jumpers
 
-**Basicly we are using a Basic Starter Kit for Arduino**
+**We are using a Basic Starter Kit for Arduino**
