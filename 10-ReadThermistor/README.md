@@ -2,6 +2,8 @@
 
 The goal of this exercise is to read the Thermistor's (Temperature) output on the Serial Monitor (in the Arduino IDE).
 
+**The temperature value depend on the resistor value ! (because we need to calculate it using the resistor value, 5k in our case)**
+
 # Scheme
 
 <p align="center">
