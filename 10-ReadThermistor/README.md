@@ -1,18 +1,18 @@
 # Desciption 
 
-The goal of this exercise is to read the Photoresistor's (light level detector) output on the Serial Monitor (in the Arduino IDE).
+The goal of this exercise is to read the Thermistor's (Temperature) output on the Serial Monitor (in the Arduino IDE).
 
 # Scheme
 
 <p align="center">
-  <img width="600" height="300" src="https://github.com/Dexmos/Arduino-Workshop-I/blob/master/9-ReadPhotosensor/Scheme/Scheme.jpg">
+  <img width="600" height="600" src="https://github.com/Dexmos/Arduino-Basics/blob/master/10-ReadThermistor/Scheme/Scheme.jpg">
 </p>
 
 # Stuff requirements
 
 You will need :
-* 1 Resistor
-* 1 Photoresistor (Photosensor/Photocell)
+* 1 Resistor (5k)
+* 1 Thermistor
 * 1 Breadboard
 * 1 Aduino
 * Few Jumpers
