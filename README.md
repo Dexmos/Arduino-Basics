@@ -22,6 +22,8 @@ You will need :
 * 1 Tilt Ball Switch
 * 1 RGB LED
 * 1 Photoresisior (Photosensor/Photocell)
+* 1 Thermistor
+* 1 Active Buzzer
 * Few Simple LED
 * Few Jumpers
 
