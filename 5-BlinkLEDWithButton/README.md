@@ -5,7 +5,7 @@ The goal of this exercise is to turn on a simple LED and make it blink when a bu
 # Scheme
 
 <p align="center">
-  <img width="600" height="300" src="https://github.com/Dexmos/Arduino-Workshop-I/blob/master/5-BlinkLEDWithButton/Scheme/Scheme.jpg">
+  <img width="600" height="300" src="https://github.com/Dexmos/Arduino-Workshop-I/blob/master/5-BlinkLEDWithButton/Schema/Schema.jpg">
 </p>
 
 # Stuff requirements

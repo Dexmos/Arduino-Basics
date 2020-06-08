@@ -2,10 +2,10 @@
 
 The goal of this exercise is to turn on a simple LED.
 
-# Scheme
+# Schema
 
 <p align="center">
-  <img width="600" height="300" src="https://github.com/Dexmos/Arduino-Workshop-I/blob/master/1-TurnOnSimpleLED/Scheme/Scheme.jpg">
+  <img width="600" height="300" src="https://github.com/Dexmos/Arduino-Workshop-I/blob/master/1-TurnOnSimpleLED/Schema/Schema.jpg">
 </p>
 
 # Stuff requirements

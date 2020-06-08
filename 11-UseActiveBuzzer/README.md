@@ -5,7 +5,7 @@ The goal of this exercise is to use an Active Buzzer componant.
 # Scheme
 
 <p align="center">
-  <img width="400" height="600" src="https://github.com/Dexmos/Arduino-Basics/blob/master/11-UseActiveBuzzer/Scheme/Scheme.jpg">
+  <img width="400" height="600" src="https://github.com/Dexmos/Arduino-Basics/blob/master/11-UseActiveBuzzer/Schema/Schema.jpg">
 </p>
 
 # Stuff requirements

@@ -5,7 +5,7 @@ The goal of this exercise is to make a simple LED to blink when we reverse the B
 # Scheme
 
 <p align="center">
-  <img width="600" height="300" src="https://github.com/Dexmos/Arduino-Workshop-I/blob/master/7-BlinkLEDWithTiltBall/Scheme/Scheme.jpg">
+  <img width="600" height="300" src="https://github.com/Dexmos/Arduino-Workshop-I/blob/master/7-BlinkLEDWithTiltBall/Schema/Schema.jpg">
 </p>
 
 # Stuff requirements

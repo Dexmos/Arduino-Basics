@@ -9,13 +9,13 @@ Don't forget to check the RGB scheme to know exactly the use of each pin.
 ## Global
 
 <p align="center">
-  <img width="480" height="680" src="https://github.com/Dexmos/Arduino-Workshop-I/blob/master/8-TurnOnRGB_LED/Scheme/Scheme.jpg">
+  <img width="480" height="680" src="https://github.com/Dexmos/Arduino-Workshop-I/blob/master/8-TurnOnRGB_LED/Schema/Schema.jpg">
 </p>
 
 ## RGB scheme
 
 <p align="center">
-  <img width="500" height="500" src="https://github.com/Dexmos/Arduino-Workshop-I/blob/master/8-TurnOnRGB_LED/Scheme/RGB_LED_Scheme.png">
+  <img width="500" height="500" src="https://github.com/Dexmos/Arduino-Workshop-I/blob/master/8-TurnOnRGB_LED/Schema/RGB_LED_Schema.png">
 </p>
 
 # Stuff requirements

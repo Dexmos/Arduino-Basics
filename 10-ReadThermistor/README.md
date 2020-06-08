@@ -7,7 +7,7 @@ The goal of this exercise is to read the Thermistor's (Temperature) output on th
 # Scheme
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/Dexmos/Arduino-Basics/blob/master/10-ReadThermistor/Scheme/Scheme.jpg">
+  <img width="600" height="600" src="https://github.com/Dexmos/Arduino-Basics/blob/master/10-ReadThermistor/Schema/Schema.jpg">
 </p>
 
 # Stuff requirements

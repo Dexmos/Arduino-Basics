@@ -2,10 +2,10 @@
 
 The goal of this exercise is to turn on some LED and make them blink.
 
-# Scheme
+# Schema
 
 <p align="center">
-  <img width="800" height="300" src="https://github.com/Dexmos/Arduino-Workshop-I/blob/master/3-BlinkMultipleLED/Scheme/Scheme.jpg">
+  <img width="800" height="300" src="https://github.com/Dexmos/Arduino-Workshop-I/blob/master/3-BlinkMultipleLED/Schema/Schema.jpg">
 </p>
 
 # Stuff requirements

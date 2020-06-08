@@ -5,7 +5,7 @@ The goal of this exercise is to read the Photoresistor's (light level detector) 
 # Scheme
 
 <p align="center">
-  <img width="600" height="300" src="https://github.com/Dexmos/Arduino-Workshop-I/blob/master/9-ReadPhotosensor/Scheme/Scheme.jpg">
+  <img width="600" height="300" src="https://github.com/Dexmos/Arduino-Workshop-I/blob/master/9-ReadPhotosensor/Schema/Schema.jpg">
 </p>
 
 # Stuff requirements
